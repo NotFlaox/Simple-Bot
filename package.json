@@ -1,0 +1,22 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.1",
+    "djs-chalk": "^1.0.3",
+    "millisecond": "^0.1.2",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.2",
+    "parse-ms": "^2.1.0",
+    "pm2": "^5.3.0",
+    "quick.db": "^7.1.3"
+  },
+  "description": ""
+}
